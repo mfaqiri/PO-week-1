@@ -20,6 +20,12 @@ namespace ArrayTest
 
         }
 
+        [Fact]
+        public void StackTest()
+        {
+            
+        }
+
 
         
     }

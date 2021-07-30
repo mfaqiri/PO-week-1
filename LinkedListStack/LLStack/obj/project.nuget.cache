@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "47EY4Hb+OakA4rd5/dqysvZonrXVX6AwrieuPO0tOgciNYLaju+Mteks+6FYWokzfmxTZ3M0CouTpVzdPKhD3g==",
+  "success": true,
+  "projectFilePath": "/home/mfaqiri/po-weekly/week-1/LinkedListStack/LLStack/LLStack.csproj",
+  "expectedPackageFiles": [
+    "/home/mfaqiri/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
