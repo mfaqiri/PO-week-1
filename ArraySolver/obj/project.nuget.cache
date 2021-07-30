@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/wQK/kBKXJLawZFiEok60jxrqrd9gPFEREuh6Jpv8uH+aDM/RvxM8AP/7qOo7L3CV+5pdmAq3vmlU6c7DKW2Q==",
+  "success": true,
+  "projectFilePath": "/home/mfaqiri/po-weekly/week-1/ArraySolver/ArraySolver.csproj",
+  "expectedPackageFiles": [
+    "/home/mfaqiri/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

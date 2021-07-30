@@ -1,0 +1,16 @@
+/home/mfaqiri/po-weekly/week-1/ArraySolver/obj/Debug/net5.0/ArraySolver.csprojAssemblyReference.cache
+/home/mfaqiri/po-weekly/week-1/ArraySolver/obj/Debug/net5.0/ArraySolver.GeneratedMSBuildEditorConfig.editorconfig
+/home/mfaqiri/po-weekly/week-1/ArraySolver/obj/Debug/net5.0/ArraySolver.AssemblyInfoInputs.cache
+/home/mfaqiri/po-weekly/week-1/ArraySolver/obj/Debug/net5.0/ArraySolver.AssemblyInfo.cs
+/home/mfaqiri/po-weekly/week-1/ArraySolver/obj/Debug/net5.0/ArraySolver.csproj.CoreCompileInputs.cache
+/home/mfaqiri/po-weekly/week-1/ArraySolver/bin/Debug/net5.0/ArraySolver
+/home/mfaqiri/po-weekly/week-1/ArraySolver/bin/Debug/net5.0/ArraySolver.deps.json
+/home/mfaqiri/po-weekly/week-1/ArraySolver/bin/Debug/net5.0/ArraySolver.runtimeconfig.json
+/home/mfaqiri/po-weekly/week-1/ArraySolver/bin/Debug/net5.0/ArraySolver.runtimeconfig.dev.json
+/home/mfaqiri/po-weekly/week-1/ArraySolver/bin/Debug/net5.0/ArraySolver.dll
+/home/mfaqiri/po-weekly/week-1/ArraySolver/bin/Debug/net5.0/ref/ArraySolver.dll
+/home/mfaqiri/po-weekly/week-1/ArraySolver/bin/Debug/net5.0/ArraySolver.pdb
+/home/mfaqiri/po-weekly/week-1/ArraySolver/obj/Debug/net5.0/ArraySolver.dll
+/home/mfaqiri/po-weekly/week-1/ArraySolver/obj/Debug/net5.0/ref/ArraySolver.dll
+/home/mfaqiri/po-weekly/week-1/ArraySolver/obj/Debug/net5.0/ArraySolver.pdb
+/home/mfaqiri/po-weekly/week-1/ArraySolver/obj/Debug/net5.0/ArraySolver.genruntimeconfig.cache
